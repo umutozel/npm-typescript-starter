@@ -2,7 +2,7 @@
   "name": "npm-typescript-starter",
   "version": "1.0.0",
   "description": "Node library with TypeScript starter project",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
