@@ -71,3 +71,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Test and coverage results
+test_results
