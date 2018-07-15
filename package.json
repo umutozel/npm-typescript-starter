@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Node library with TypeScript starter project",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "readme.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
