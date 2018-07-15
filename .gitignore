@@ -74,3 +74,6 @@ typings/
 
 # Test and coverage results
 test_results
+
+# Compiled JavaScript files
+dist
