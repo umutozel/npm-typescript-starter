@@ -1,0 +1,26 @@
+{
+  "name": "npm-typescript-starter",
+  "version": "1.0.0",
+  "description": "Node library with TypeScript starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umutozel/npm-typescript-starter.git"
+  },
+  "keywords": [
+    "node",
+    "library",
+    "npm",
+    "typescript",
+    "starter"
+  ],
+  "author": "Umut Özel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umutozel/npm-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/umutozel/npm-typescript-starter#readme"
+}
