@@ -4,7 +4,7 @@ import { test } from '../lib/index';
 
 describe('index', function () {
     describe('test', function () {
-        it('should return 42', function (done) {
+        it('should return 42', function () {
             const result = test();
 
             expect(result).to.equal(42);
