@@ -37,7 +37,7 @@
     "starter"
   ],
   "author": "Umut Özel",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/umutozel/npm-typescript-starter/issues"
   },
